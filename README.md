@@ -3,13 +3,15 @@
 ###Instruction
 
 * #### Data preporcessing
+
 	Create a new column "density"= "population"/"surface"
+	
 * #### Data mapping
 	1. Population - radius of circle, higher population with larger raduis
 	2. Population - Opacity of circle, higher population with lower opacity, which is to handle the overlapping issues
 	3. Density - Brightness(HSB colormode)of circle, higher density with higher brightness
-	
-		![preview](https://raw.githubusercontent.com/mydu/Infoviz2015/master/preview.png =400x350)
+		
+	![preview](preview.png)
 	
 * #### Interaction
 	1. Mousemove - Highlight places， with excentric labelling for overlapping cites
