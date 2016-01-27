@@ -14,11 +14,11 @@ Create a new column "density"= "population"/"surface"
 
 3. **Density** - Brightness(HSB colormode)of circle, higher density with higher brightness
 		
-![preview](preview.png)
+<!--![preview](preview.png)-->
 	
 #### Interaction
-1. Mousemove - Highlight places， with excentric labelling for overlapping cites
-2. Click - Select Place for details
+1. Mousemove - Highlight places，with excentric labelling for overlapping cites
+2. Click - Select place for details
 3. Two sliders for population and density control
 4. Zoom and pan supported
 	
